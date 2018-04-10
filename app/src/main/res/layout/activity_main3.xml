@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="horizontal"
+    tools:context="net.mlh.zqy.Main3Activity">
+
+                <TextView
+                    android:layout_width="160dp"
+                    android:layout_height="60dp"
+                    android:text="ahahahah"
+                    android:textColor="#fff"
+                    android:background="#000"
+                    android:gravity="center"
+                    android:layout_gravity="center_vertical"
+                    />
+
+
+
+</LinearLayout>
